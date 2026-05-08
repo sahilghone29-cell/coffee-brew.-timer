@@ -120,7 +120,7 @@ export default function App() {
 
         <div className="hero-overlay">
 
-          <h1>Mug Cult Coffee</h1>
+          <h1>Time Brew</h1>
 
           <p>
             Premium Coffee Brew Timer ☕
